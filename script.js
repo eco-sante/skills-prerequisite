@@ -93,7 +93,7 @@ function showSaveOption() {
     });
 }
 // Enregistrer les résultats dans Google Sheets
-const scriptURL = "https://script.google.com/macros/s/AKfycbxWXOxxOhHEYVJI7fC3XD1L6ode5EJA-n3g7Uqja9yyrTifaiuLifDH0pOT_vHPO_17/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbyHPPpb67krWs7GYZ6m_s07XRLzWRw6uVhfAgwQ1pDnqT0q1o1-shRZcGyyuRgv22TpAg/exec";
 
 function saveResults(saveButton, cancelButton) {
     // Désactiver le bouton "Enregistrer" pour éviter plusieurs clics
@@ -216,7 +216,7 @@ function renderChart() {
 }
 
 // URL de l'API Google Sheets (à modifier si nécessaire)
-const scoresFetchURL = "https://script.google.com/macros/s/AKfycbxWXOxxOhHEYVJI7fC3XD1L6ode5EJA-n3g7Uqja9yyrTifaiuLifDH0pOT_vHPO_17/exec";
+const scoresFetchURL = "https://script.google.com/macros/s/AKfycbyHPPpb67krWs7GYZ6m_s07XRLzWRw6uVhfAgwQ1pDnqT0q1o1-shRZcGyyuRgv22TpAg/exec";
 
 // Fonction pour calculer et afficher le classement
 function calculateRanking() {
