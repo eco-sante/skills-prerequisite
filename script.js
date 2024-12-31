@@ -10,7 +10,7 @@ const questions = [
     "Do you know how to create, rename, or delete folders using a command line?",
     "Have you ever installed an application on your computer?",
     "Do you regularly use the Internet?",
-    "Have you ever searched for information on the Internet?",
+    "Have you ever loocked for information on the Internet?",
     "AHave you ever used a text editor (Notepad, Sublime Text, etc.)?",
     "Do you enjoy solving logical problems or puzzles?",
     "Are you interested in how computers work?",
