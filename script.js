@@ -11,7 +11,7 @@ const questions = [
     "Have you ever installed an application on your computer?",
     "Do you regularly use the Internet?",
     "Have you ever loocked for information on the Internet?",
-    "AHave you ever used a text editor (Notepad, Sublime Text, etc.)?",
+    "Have you ever used a text editor (Notepad, Sublime Text, etc.)?",
     "Do you enjoy solving logical problems or puzzles?",
     "Are you interested in how computers work?",
     "Would you like to create your own applications or video games?",
